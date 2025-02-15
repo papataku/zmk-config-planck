@@ -136,6 +136,11 @@
     retro-tap;
 };
 
+&encoder {
+    status = "okay";
+};
+
+
 / {
     behaviors {
 
